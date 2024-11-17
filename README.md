@@ -36,6 +36,7 @@ Linux Instance: Use SSH to connect.
 ssh -i "key_pair.pem" ec2-user@<linux_public_dns>
 
 Commands
+
 S3 Bucket Creation
 1.AWS CLI Command:
 aws s3 mb s3:// --region
@@ -56,7 +57,8 @@ S3 bucket
 linux instance
 ![image](https://github.com/user-attachments/assets/229df7fa-299c-4362-aeb1-d848d48a7e98)
 windows instance
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a3454e4d-b0bf-490f-a5e6-7aed0366a75b)
+
 
 
 
