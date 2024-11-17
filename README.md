@@ -2,6 +2,7 @@
   ## AIM
        To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT
+
     The goal of this experiment is to demonstrate the creation of an Amazon S3 bucket for storage purposes and the setup of EC2 instances for both Linux and Windows operating systems using AWS. Amazon S3 (Simple Storage Service) provides secure and scalable object storage, while EC2 (Elastic Compute Cloud) allows users to deploy virtual servers for computation and application hosting.
 
 ## ALGORITHM
